@@ -2,8 +2,4 @@
 
 ## Available in: 
 
-[a link](https://gilbertonavamarcos.github.io/Quote/)
-
-
-
-
+https://gilbertonavamarcos.github.io/Quote/
